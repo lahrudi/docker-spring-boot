@@ -8,6 +8,7 @@ class DockerSpringBootApplicationTests {
 
 	@Test
 	void contextLoads() {
+	    //Test
 	}
 
 }
