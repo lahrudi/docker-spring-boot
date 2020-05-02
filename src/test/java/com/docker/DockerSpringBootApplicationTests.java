@@ -1,4 +1,4 @@
-package com.techprimers.docker.dockerspringboot;
+package com.docker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
